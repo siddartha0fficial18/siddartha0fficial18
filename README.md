@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nallella Siddartha</h1>
+<h1 align="center">Hi 👋, I'm Siddartha</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddartha0fficial18&label=Profile%20views&color=0e75b6&style=flat" alt="siddartha0fficial18" /> </p>
